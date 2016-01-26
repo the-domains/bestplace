@@ -1,7 +1,7 @@
 name: bestplace
 favicon: null
-layout_spectrum: 0.5452399551868439
-typography_spectrum: 0.0506645068526268
+layout_spectrum: 0
+typography_spectrum: 0.74326
 cta:
   domain: null
   bucket: null
