@@ -4,8 +4,15 @@
         <description><![CDATA[bestplace]]></description>
         <link>https://thegrid.ai/bestplace/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 19:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jan 2016 19:25:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bestplace/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>The second post is plain text. We will see how it adjusts the site.</p>]]></description>
+            <link>https://thegrid.ai/bestplace/859e5205-10c5-4d29-a587-517190e57edb/index.html</link>
+            <guid isPermaLink="false">859e5205-10c5-4d29-a587-517190e57edb</guid>
+            <pubDate>Tue, 26 Jan 2016 19:24:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/725486a7-73eb-4e4c-a452-0c123ec3abf1.jpg">]]></description>
